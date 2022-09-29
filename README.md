@@ -47,17 +47,21 @@ Even though this analysis was not very difficult to perform, there were still a 
 ## *Results*
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Firstly, we can conclude that the most successful theater campaigns are launched during the summer months. The most successful month seems to be may, followed by june and july. A possible explanation for this could be that, during the summer, people tend to be on a better mood because of the warmer weather. This could, in turn, make them feel more generous towards artistic campaigns. 
 
 The second conclusion we can draw about the Outcomes based on Launch Date is that the most difficult months for campaigns are december and january. Again, a possible explanation for this could be that a cold weather doesn´t lead to a happy, generous mood. However, a much stronger theory could be that, since these are the months surrounding Christmas, people don´t have a lot of money to spare for campaigns. 
 
 - What can you conclude about the Outcomes based on Goals?
+
 The Outcomes based on Goals analysis gives us relevant insight on the types of objectives that are realistic for crowdfunding campaigns. First of all, it seems that the most successful campaigns are those that ask for less than $1000 USD. Another very successful portion of campaign asks for between $1000 and $4999 USD. Louise´s objective is over $10,000 USD, which means that she will have to evaluate if this is a sound objective to have, as those campaigns are usually 54% successful. On the other hand, it also seems that the least successful campaigns are those that ask for between $45000 and $49999 USD, followed by those that ask for $50000 USD or more. 
 
 - What are some limitations of this dataset?
+
 Although this dataset helps us get a general idea of the key characteristics of successful crowdfunding campaigns, there are other elements that could determine a campaign's success that can't be determined through the available information. Other important aspects to take into account could be, for example, the marketing strategy surrounding the campaign, or the types of backers each campaign has (is it people who have higher income, or is it people who have an average salary?). Having information like this could really help Louise develop a much more precise strategy for her crowdfunding campaign. 
 
 - What are some other possible tables and/or graphs that we could create?
+
 Other tables and/or graphs we could create for this analysis could be:
 * The average donation vs. the outcomes (this could help us determine, indirectly, the average income for backers). 
 * The outcomes based on goals, but only for theater campaigns in the US. 
